@@ -1,3 +1,6 @@
+# Introduction
+Desinged an interpreter for some rules, base on the assignment. 
+
 # Rquirements:
     python3
 
@@ -31,3 +34,8 @@
 2. load example.txt which contains rules
 3. tell new atoms
 4. infer these atoms
+   
+# Show
+
+![](show1.png)
+![](show2.png)
