@@ -1,0 +1,3 @@
+computer <-- software & hardware
+hardware <-- mother_board & cpu & gpu & power
+software <-- BIOS & OS

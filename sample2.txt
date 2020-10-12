@@ -1,0 +1,3 @@
+cloudy <-- no_sun & daytime
+
+cloudy <-- hard_to_see
